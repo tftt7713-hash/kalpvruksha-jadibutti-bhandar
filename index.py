@@ -23,5 +23,5 @@ html_code = f"""
         border: none; 
     }}
 </style>
-<iframe src="{CHATBASE_LINK}"></iframe>
+<iframe src="{https://www.chatbase.co/Yo9IAwiCy3KAPOyzOWzHC/help}"></iframe>
 """

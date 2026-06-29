@@ -24,3 +24,4 @@ html_code = f"""
     }}
 </style>
 <iframe src="{CHATBASE_LINK}"></iframe>
+"""

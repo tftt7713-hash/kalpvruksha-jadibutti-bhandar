@@ -2,10 +2,10 @@ import streamlit as st
 import streamlit.components.v1 as components
 
 # Web page ki basic settings (Title aur Full Screen Layout)
-st.set_page_config(page_title="My AI Chatbot", layout="wide")
+st.set_page_config(page_title="Kalpvruksha Jadibutti Bhandar", layout="wide")
 
 # 1. APNI LINK SIRF IS EK JAGAH PAR UPDATE KAREIN:
-CHATBASE_LINK = "PASTE_YOUR_CHATBASE_IFRAME_LINK_HERE"
+CHATBASE_LINK = "https://www.chatbase.co/Yo9IAwiCy3KAPOyzOWzHC/help"
 
 # 2. HTML styling aur iframe code (Isme koi badlav nahi karna hai)
 html_code = f"""
